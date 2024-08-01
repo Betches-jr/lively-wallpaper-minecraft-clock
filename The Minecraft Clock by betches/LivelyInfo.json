@@ -1,0 +1,13 @@
+{
+  "AppVersion": "0.9.6.0",
+  "Title": "The Clock",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "A Cool Minecraft Clock",
+  "Author": "Betches",
+  "License": null,
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
